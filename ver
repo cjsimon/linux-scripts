@@ -1,0 +1,3 @@
+uname -mrs && lsb_release -a
+#dmesg | egrep -i 'err|warn|critical'
+
